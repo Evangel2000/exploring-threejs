@@ -1,0 +1,8 @@
+.threeSceneContainer {
+    height: 650px;
+    width: 800px;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: #D6D6D6;
+    border: rgba(52, 52, 52, 0.493) solid 1px;
+}
